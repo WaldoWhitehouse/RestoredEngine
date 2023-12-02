@@ -1,0 +1,12 @@
+pico:idle:so this should be the guy
+#bf:singUP:beep!
+#pico:singDOWN:prepare to-
+#pico:singRIGHT:wait
+#gf:idle:uhh bf who tf is this guy?!?!
+#bf:singDOWN:beep bop be bep
+#gf:idle:ohhhh he's your ex! well\nthat makes more sense
+#gf:idle:but why are you here?
+#pico:singLEFT:i was send by mister\ndearest to assasinate you
+#bf:singLEFTmiss:a
+#pico:idle:but I kinda didn't think\nit was you, so wanna sing instead?
+#bf:singUP:bep
